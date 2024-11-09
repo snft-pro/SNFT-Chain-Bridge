@@ -25,7 +25,7 @@ const Footer = () => {
             
             <li><Link to="https://x.com/snftpro" target='_blank'><AiFillTwitterCircle /></Link></li>
             <li><Link to="https://www.linkedin.com/company/snft/" target='_blank'><AiFillLinkedin /></Link></li>
-            <li><Link style={{marginRight:"100px"}}to="https://github.com/orgs/snft-pro//bridge" target='_blank'><FaGithub /></Link></li>
+            <li><Link style={{marginRight:"100px"}}to="https://github.com/snft-pro/SNFT-Chain-Bridge" target='_blank'><FaGithub /></Link></li>
           </ul>
           
         </div>
